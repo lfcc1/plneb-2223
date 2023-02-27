@@ -1,4 +1,3 @@
-Repositório PLNEB 2223
 # Repositório PLNEB 2223
 
 ### URL for the spreadsheet with Students GitHub Repositories
